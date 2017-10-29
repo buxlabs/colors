@@ -23,3 +23,4 @@ The method uses the `color-namer` package that can be found here https://www.npm
 ## TODO
 
 - add contrast color checker
+- add color palettes
