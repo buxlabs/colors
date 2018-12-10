@@ -1,7 +1,7 @@
 {
-  "name": "color-utilities",
+  "name": "color-mint",
   "version": "1.0.0",
-  "description": "color utilities",
+  "description": "color helpers",
   "main": "build/colors.js",
   "scripts": {
     "build": "rollup -c config.js",

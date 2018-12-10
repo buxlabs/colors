@@ -1,13 +1,13 @@
-# color-utilities
+# color-mint
 
 ## Installation
 
-`npm install color-utilities`
+`npm install color-mint`
 
 ## Usage
 
 ```js
-import colors from 'color-utilities'
+import colors from 'color-mint'
 
 colors.name('#f00')
 ```
