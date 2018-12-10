@@ -5,8 +5,8 @@ export default {
   input: 'index.js',
   output: {
     file: 'build/colors.js',
-    format: 'umd'
+    format: 'umd',
+    name: 'colors'
   },
-  name: 'colors',
   plugins: [resolve(), commonjs()]
 }

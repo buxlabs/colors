@@ -1,15 +1,13 @@
-# Colors
-
-Colors is a package for use in Node.js or the browser that can convert colors to names.
+# color-utilities
 
 ## Installation
 
-`npm install @buxlabs/colors`
+`npm install color-utilities`
 
 ## Usage
 
 ```js
-import colors from '@buxlabs/colors'
+import colors from 'color-utilities'
 
 colors.name('#f00')
 ```
