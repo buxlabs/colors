@@ -10,6 +10,7 @@
 import colors from 'color-mint'
 
 colors.name('#f00')
+colors.nearest('#fff', ['#000', '#111'])
 ```
 
 ## API
@@ -17,6 +18,10 @@ colors.name('#f00')
 ### name
 
 The method uses the `color-namer` package that can be found here https://www.npmjs.com/package/color-namer
+
+### nearest
+
+Returns the nearest color given an array of possible colors. https://www.npmjs.com/package/nearest-color
 
 ## TODO
 
